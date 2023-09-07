@@ -15,4 +15,9 @@
   * Chicken
   * Cooldrinks
   * Cake
+
+  [click here to find my profile](https://github.com/Pravallika7120/my2-Alluri/blob/main/MyStats.md)
+
+  ---
+  
   
