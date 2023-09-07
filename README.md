@@ -19,5 +19,13 @@
   [click here to find my profile](https://github.com/Pravallika7120/my2-Alluri/blob/main/MyStats.md)
 
   ---
-  
+  This tables indicates 4 types of Sports that recommended to play. These are listed below:
+  |**Sports**|**Recommended for playing**|**Average Time of Play in a Week**|
+  |--------------|------------------|-------------------|
+  |Swimming|It is usefull for weight loss|7 hrs|
+  |BasketBall|It is usefull for fitness|5 hrs|
+  |VolleyBall|It is usefull stress burster|6 hrs|
+  |FootBall|It is usefull for improvement in running|4 hrs|
+
+  ------
   
