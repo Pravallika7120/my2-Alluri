@@ -27,8 +27,28 @@
   |VolleyBall|It is usefull stress burster|6 hrs|
   |FootBall|It is usefull for improvement in running|4 hrs|
 
-  ------
+  ---
   1.`“just because you're paranoid doesn't mean they're not after you.” `---- by **_Henry Kissinger_**
   
   2.`“Mathematicians deal with large numbers sometimes, but never in their income.”` --- by **_Isaac Asimov_**
+
+  ---
+  ### Sample code for CSS code snippet
+  ```
+function catch_that_image() {
+  global $post, $posts;
+  $first_img = '';
+  ob_start();
+  ob_end_clean();
+  $output = preg_match_all('/<img.+?src=[\'"]([^\'"]+)[\'"].*?>/i', $post->post_content, $matches);
+  $first_img = $matches[1][0];
+
+  if(empty($first_img)) {
+    $first_img = "/path/to/default.png";
+  }
+  return $first_img;
+}
+
+```
+[My CSS code Snippet ](https://css-tricks.com/snippets/wordpress/get-the-first-image-from-a-post/)
   
