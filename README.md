@@ -28,4 +28,7 @@
   |FootBall|It is usefull for improvement in running|4 hrs|
 
   ------
+  1.`“just because you're paranoid doesn't mean they're not after you.” `---- by **_Henry Kissinger_**
+  
+  2.`“Mathematicians deal with large numbers sometimes, but never in their income.”` --- by **_Isaac Asimov_**
   
